@@ -1,3 +1,12 @@
+## Nestjs API intro
+
+Nestjs API intro built from combination of academind's YouTube resources:
+
+- [Learn nextjs from scratch](https://youtu.be/F_oOtaxb0L8)
+- [Nextjs with mongoDB](https://youtu.be/ulfU5vY6I78)
+
+<!--
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -22,6 +31,8 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+<!--
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
@@ -71,3 +82,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+-->
